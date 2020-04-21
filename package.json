@@ -1,0 +1,26 @@
+{
+  "name": "lotr-master",
+  "version": "1.0.0",
+  "description": "Training Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pepijn-de-koning/LOTR.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Pepijn de Koning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pepijn-de-koning/LOTR/issues"
+  },
+  "homepage": "https://github.com/Pepijn-de-koning/LOTR#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0"
+  }
+}
